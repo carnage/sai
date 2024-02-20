@@ -1,0 +1,17 @@
+{
+  "name": "carnage/sai",
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+  ],
+  "require": {
+    "php": "^8.2",
+    "dagger/dagger": "^0.9.10"
+  },
+  "autoload": {
+    "psr-4": {
+      "Sai\\": "./src"
+    }
+  }
+}
